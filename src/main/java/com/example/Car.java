@@ -1,6 +1,6 @@
 package com.example;
 
 public class Car {
-	String carName;
+	private String carName;
 
 }
